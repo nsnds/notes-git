@@ -4,4 +4,5 @@
 1. ~/project/.git/config
 
 > [credential]
->   helper = store
+>
+>     helper = store
